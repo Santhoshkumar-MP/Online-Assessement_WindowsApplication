@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Online Assessment\bin\Debug\Online Assessment.exe.config
+C:\Users\User\source\repos\Online Assessment\bin\Debug\Online Assessment.exe
+C:\Users\User\source\repos\Online Assessment\bin\Debug\Online Assessment.pdb
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online Assessment.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form1.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Properties.Resources.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online Assessment.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online Assessment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online Assessment.exe
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online Assessment.pdb
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form2.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form3.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form4.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form5.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form6.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form7.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form8.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form9.resources
+C:\Users\User\source\repos\Online Assessment\obj\Debug\Online_Assessment.Form10.resources
